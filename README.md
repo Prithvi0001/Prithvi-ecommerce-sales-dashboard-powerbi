@@ -1,51 +1,40 @@
-# Madhav_Store_PowerBI_Dashboard
+# Prithvi Sales Dashboard
 
-![Dashboard1](https://github.com/Parashu96/Madhav_Store_PowerBI_Dashboard/assets/121815820/6a5da9ee-47ed-40cc-955b-e6b0a08f4a04)
+An interactive Power BI dashboard created by Prithvi Sherawat to analyze Madhav Store sales performance.
 
+## Project Overview
 
+This project presents a sales dashboard built in Power BI using Madhav Store data. It helps analyze overall sales, profit, quantity, customer behavior, payment modes, product categories, and monthly trends.
 
-Project Objective: 
+## Tools Used
 
-The owner of Madhav store want us to help them create a dashboard to track and analyze their online sales across India.
+* Power BI
+* Microsoft Excel / CSV
+* Data Cleaning
+* Data Modeling
+* DAX Measures
 
-Dataset Description:
+## Key Insights
 
+* Sales and profit analysis by state
+* Category and sub-category performance
+* Customer-wise sales analysis
+* Payment mode distribution
+* Monthly profit trends
+* Quantity analysis by product category
 
-The Dataset contains information on various category and sub-category and their details.
+## Files Included
 
-File Type: CSV
+* `Prithvi Sales Dashboard.pbix` – Power BI dashboard file
+* Dataset files – Sales and order data
+* `dashboard.png` – Dashboard preview screenshot
 
-The variables in the datasets are:
+## Dashboard Preview
 
-Table1: Orders.csv
-order ID , Amount, Profit, Quantity, Category, Sub-Category, Payment-mode
+![Dashboard Preview](dashboard.png)
 
-Table2: Oredrs.csv
-order Id, Order Date, Customer Name, City , State
+## Created By
 
-Insights :
+**Prithvi Sherawat**
+Aspiring Data Analyst
 
-1) Maximum profit earned by Maharashtra State followed by Madhya Pradesh.
-
-2) Harivansh is the Top purchasing customer has spent nearly 10K INR in the market.
-
-3) Clothing category covers almost 63% of the total market.
-
-4) Printers are the Top Sub-Category selling across India.
-
-5) Most of the people have made their payment using credit card and COD mode.
-
-6) The Total profit of Madhav store including all state is 37k INR
-
-
-Learning Outcomes:
-
-1) Created an interactive dashboard to track and analyze online sales data.
-
-2) Used complex parameters to drill down in worksheets (Orders and Details) and customizations using filters and slicers.
-
-3.) Created connections between tables, join the tables, calculated to manipulate data and enable used-driven parameters for visualizations.
-
-4) Created new columns AOV using the DAX function for a clear image of the average price per product.
-
-5) Used different types of customized visualizations in form of bar charts, donut charts, clustered bar charts, tiles, and slicers.
