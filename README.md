@@ -1,4 +1,4 @@
-# Prithvi Sales Dashboard
+# Madhav Sales Dashboard
 
 An interactive Power BI dashboard created by Prithvi Sherawat to analyze Madhav Store sales performance.
 
@@ -25,7 +25,7 @@ This project presents a sales dashboard built in Power BI using Madhav Store dat
 
 ## Files Included
 
-* `Prithvi Sales Dashboard.pbix` – Power BI dashboard file
+* `Madhav Sales Dashboard.pbix` – Power BI dashboard file
 * Dataset files – Sales and order data
 * `dashboard.png` – Dashboard preview screenshot
 
